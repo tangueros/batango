@@ -1,3 +1,3 @@
-# BATANGO web reorganised
+# TANGOBA web reorganised
 
 The main data from festival website, reorganised
